@@ -1,8 +1,4 @@
 # Hello World
 
-This is a text file that we are going to add to Git.
-
-We will use Git to record all the versions of this file, letting us move
-back and forth through time.
-
-For example, in this first file we will say that a cat goes "mieow!" 
+This is a README.md file that will be used to describe this repository on GitHub
+This is an extra line of text added to the copy of README.md in the cloned repository 
