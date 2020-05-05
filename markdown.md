@@ -11,7 +11,7 @@ This is just a _test_ of markdown so **__don't__** worry too much about it!
 9. another point
 
 
-This is a table
---- --- --- --- 
-1 2 3 4 
+This | is | a | table
+--- | --- | --- | --- 
+1 | 2 | 3 | 4 
 
