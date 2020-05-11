@@ -10,6 +10,7 @@ This is just a _test_ of markdown so **__don't__** worry too much about it!
 - not a point
 9. another point
 
+ADDED IN FOR TESTING
 
 This | is | a | table
 --- | --- | --- | --- 
